@@ -60,3 +60,10 @@
   padding: 10px;
   color: white;
 }
+
+/*Active Page*/
+#current{
+  color: white;
+  background-color: aqua;
+  font-weight: bold;
+}

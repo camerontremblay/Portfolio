@@ -5,6 +5,12 @@ Navbar: #313145
 Text: #f4f4f5
 Footer: #b0b0c3
 */
+/*Universal reset*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
 
 /* Navbar */
@@ -68,4 +74,24 @@ Footer: #b0b0c3
 .side-menu li a {
   padding: 10px;
   color: #f4f4f5;
+}
+
+body{
+  background-color: #1e1e2f;
+  color: #f4f4f5;
+  font-size: 1rem;
+  line-height: normal;
+  padding: 10px;
+  text-align: left;
+}
+
+footer{
+  color: #b0b0c3;
+  font-size: .75rem;
+}
+
+iframe{
+  max-width: 80%;
+  text-align: center;
+  border: 3px solid #adaabf;
 }

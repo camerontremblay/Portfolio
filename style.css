@@ -1,6 +1,15 @@
+/*
+Colors Scheme:
+Main bg: #1e1e2f
+Navbar: #313145
+Text: #f4f4f5
+Footer: #b0b0c3
+*/
+
+
 /* Navbar */
 #navbar {
-  background-color: #222;
+  background-color: #313145;
   padding: 10px 20px;
 }
 #navbar ul.menu {
@@ -14,7 +23,7 @@
   margin-right: 20px;
 }
 #navbar a {
-  color: #fff;
+  color: #f4f4f5;
   text-decoration: none;
   padding: 10px;
   display: block;
@@ -29,7 +38,7 @@
   position: absolute;
   top: 100%;
   left: 0;
-  background-color: #333;
+  background-color: #313145;
   list-style: none;
   min-width: 200px;
   z-index: 1000;
@@ -39,7 +48,7 @@
 }
 .dropdown-menu a {
   padding: 10px;
-  color: white;
+  color: #f4f4f5;
 }
 
 /* Side Dropdown */
@@ -51,18 +60,18 @@
   position: absolute;
   top: 0;
   left: 100%;
-  background-color: #444;
+  background-color: #313145;
   min-width: 200px;
   list-style: none;
   z-index: 1001;
 }
 .side-menu li a {
   padding: 10px;
-  color: white;
+  color: #f4f4f5;
 }
 
 /*Active Page*/
 #current{
-  color: white;
-  background-color: darkblue;
+  color: #313145;
+  background-color: #f4f4f5;
 }

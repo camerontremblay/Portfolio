@@ -80,7 +80,7 @@ body{
   background-color: #1e1e2f;
   color: #f4f4f5;
   font-size: 1rem;
-  line-height: normal;
+  line-height: 1.5;
   padding: 10px;
   text-align: left;
 }
@@ -91,7 +91,15 @@ footer{
 }
 
 iframe{
-  max-width: 80%;
-  text-align: center;
+  width: 80%;
+  margin: auto;
   border: 3px solid #adaabf;
+}
+
+h1{
+  font-size: 3rem;
+}
+
+h2, h3{
+  font-size: 2rem;
 }

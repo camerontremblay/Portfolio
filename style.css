@@ -91,10 +91,10 @@ footer{
 }
 
 iframe{
-  width: 80%;
-  height: 30%;
-  margin: auto;
-  border: 3px solid #adaabf;
+  width: 100%;
+  max-width: 800px;
+  height: 800px;
+  display: block;
 }
 
 h1{

@@ -80,10 +80,15 @@ Headers: #FF5500
 body{
   background-color: #1e1e2f;
   color: #f4f4f5;
-  font-size: 1rem;
+  font-size: 1.2rem;
   line-height: 1.5;
   padding: 10px;
   text-align: left;
+}
+
+.normal-paragraph{
+  color: #f4f4f5;
+  font-size: 1.2rem;
 }
 
 footer{

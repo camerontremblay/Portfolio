@@ -104,3 +104,23 @@ h1{
 h2, h3{
   font-size: 2rem;
 }
+
+#name{
+  text-align: center;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+#name-description{
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+
+#quote-home{
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+  font-style: italic;
+  background-color: #313145;
+}

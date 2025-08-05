@@ -4,6 +4,7 @@ Main bg: #1e1e2f
 Navbar: #313145
 Text: #f4f4f5
 Footer: #b0b0c3
+Headers: #FF5500
 */
 /*Universal reset*/
 * {
@@ -90,7 +91,7 @@ footer{
   font-size: .75rem;
   border-top: 2px solid black;
   padding-top: 10px;
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
 iframe{
@@ -100,18 +101,11 @@ iframe{
   display: block;
 }
 
-h1{
-  font-size: 3rem;
-}
-
-h2, h3{
-  font-size: 2rem;
-}
-
 #name{
   text-align: center;
   font-size: 3rem;
   font-weight: bold;
+  color: #FF5500;
 }
 
 #name-description{
@@ -128,4 +122,10 @@ h2, h3{
   font-style: italic;
   background-color: #313145;
   border: 2px solid black;
+}
+
+#home-description{
+  text-align: center;
+  font-size: 1.25rem;
+  font-weight: normal;
 }

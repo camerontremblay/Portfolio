@@ -90,6 +90,7 @@ footer{
   font-size: .75rem;
   border-top: 2px solid black;
   padding-top: 10px;
+  margin-top: 10px;
 }
 
 iframe{
@@ -126,4 +127,5 @@ h2, h3{
   font-weight: bold;
   font-style: italic;
   background-color: #313145;
+  border: 2px solid black;
 }

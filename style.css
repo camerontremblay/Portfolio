@@ -117,11 +117,11 @@ iframe{
   font-weight: bold;
   font-style: italic;
   background-color: #313145;
-  border: 2px solid black;
   margin-bottom: 20px;
   padding: 20px;
-  border-radius: 10px;
-  box-shadow: 0 0 10px #00000033;
+  border-radius: 12px;
+  border: 1px solid #FF5500;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
 }
 
 #home-description{

@@ -101,7 +101,7 @@ iframe{
   display: block;
   margin: 0 auto;
   border-radius: 12px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
 }
 
 #name-description{
@@ -151,6 +151,7 @@ h1{
   background-color: #313145;
   border-radius: 12px;
   border: 1px solid #FF5500;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
 }
 
 a{
@@ -184,6 +185,7 @@ a:hover{
   background-color: #313145;
   border-radius: 12px;
   border: 1px solid #FF5500;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
 }
 
 .projects-grid{
@@ -199,4 +201,5 @@ a:hover{
   background-color: #313145;
   border-radius: 12px;
   border: 1px solid #FF5500;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
 }

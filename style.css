@@ -157,6 +157,10 @@ a{
   color: #0000FF;
 }
 
+a:hover{
+  color:#FF5500;
+}
+
 #class-list-sophomore{
   list-style-type: circle;
   margin-left: 20px;
